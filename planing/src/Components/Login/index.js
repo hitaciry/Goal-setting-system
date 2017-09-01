@@ -4,10 +4,10 @@ import style from '../../style'
 class Login extends Component {
   render() {
     return (
-      <form >
+      <form style={style.LoginForm} >
         <input type='email'/>
         <input type='password'/>
-        <input tyoe='submit'/>
+        <input type='submit'value='submit'/>
       </form>
     );
   }

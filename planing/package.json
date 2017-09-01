@@ -9,11 +9,12 @@
     "foreman": "^2.0.0",
     "marked": "^0.3.6",
     "mongoose": "^4.11.9",
+    "node-gis-wrapper": "0.0.1",
     "nodemon": "^1.11.0",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "react-redux": "^5.0.6",
-    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
     "react-scripts": "1.0.12",
     "redux": "^3.7.2"
   },
